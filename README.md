@@ -31,7 +31,11 @@ python3 app.py --title "android development" --description "книга по ра
 ```bash
 python3 app.py --title "quality assurance" --description "книга является справочником для опытного QA инженера. в нее включены основные понятия QA, основные метрики качества, подходы к тестированию" --tags qa quality assurance cookbook  --details подробно --theme "справочник для QA инженера" --pages 200 --output qaguide --language Russian
 ```
-пример [сгенерированной книги ](https://github.com/iampopovich/GPTWrite/releases/download/v1.1.0/qaguide.md)
+пример [сгенерированной книги ](https://github.com/iampopovich/GPTWrite/releases/download/v1.1.0/qaguide.md)  
+другие примеры можно найти в секции [releases](https://github.com/iampopovich/GPTWrite/releases)
+<img width="1536" alt="Screenshot 2024-02-28 at 7 55 35 PM" src="https://github.com/iampopovich/GPTWrite/assets/23129441/67d81033-97d3-4c70-b855-e11677ed86d1">
+<img width="1536" alt="Screenshot 2024-02-28 at 7 55 43 PM" src="https://github.com/iampopovich/GPTWrite/assets/23129441/ceddf7fa-a2f7-41e1-84c4-8827cd499d83">
+
 
 Аргументы командной строки  
 - `--theme` STRING: Тема книги (обязательный)
