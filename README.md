@@ -31,6 +31,7 @@ python3 app.py --title "android development" --description "книга по ра
 ```bash
 python3 app.py --title "quality assurance" --description "книга является справочником для опытного QA инженера. в нее включены основные понятия QA, основные метрики качества, подходы к тестированию" --tags qa quality assurance cookbook  --details подробно --theme "справочник для QA инженера" --pages 200 --output qaguide --language Russian
 ```
+пример [сгенерированной книги ](https://github.com/iampopovich/GPTWrite/releases/download/v1.1.0/qaguide.md)
 
 Аргументы командной строки  
 - `--theme` STRING: Тема книги (обязательный)
@@ -41,3 +42,5 @@ python3 app.py --title "quality assurance" --description "книга являе�
 - `--details` STRING: Детали книги (опциональный)
 - `--language` STRING: Язык книги (опциональный)
 - `--output` STRING: Имя выходного файла (обязательный)
+
+
